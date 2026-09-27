@@ -112,23 +112,6 @@ const asad = {
 
 <div align="center">
 
-<a href="https://github.com/asdmallick">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=asdmallick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
-    alt="Asad Mallick GitHub stats"
-  />
-</a>
-<a href="https://github.com/asdmallick">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdmallick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    alt="Top languages"
-  />
-</a>
-
-<br />
-
 <img
   height="165"
   src="https://streak-stats.demolab.com?user=asdmallick&theme=tokyonight&hide_border=true&cache_seconds=1800"
@@ -136,16 +119,6 @@ const asad = {
 />
 
 </div>
-
-<details>
-<summary><b>Backup stats (if cards above fail to load)</b></summary>
-
-<br />
-
-![Stats](https://stats.justjavac.com/api?username=asdmallick&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://stats.justjavac.com/api/top-langs/?username=asdmallick&layout=compact&theme=tokyonight&hide_border=true)
-
-</details>
 
 ---
 
