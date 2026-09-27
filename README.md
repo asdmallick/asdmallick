@@ -87,20 +87,6 @@ const asad = {
 
 ---
 
-## Featured work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [PakCitizen](https://pakcitizen.com) | Multi-sided marketplace (business · customer · rider) | NestJS · MongoDB · LiveKit · Docker · AWS |
-| AIVA | AI social content platform for creators | NestJS · React · Firebase · Gemini · AWS |
-| Fenec | Group-first social + voice/video | Next.js · NestJS · LiveKit · Twilio |
-| SipSkip | QR FastPass for venues / stadiums | NestJS · React · Stripe · Firebase |
-| [Briermere Farms](https://briermerefarms.online) | Farm bakery e-commerce + pickup | NestJS · React · Square · AWS |
-
-👉 Full portfolio: **[asad-mallick.web.app](https://asad-mallick.web.app/)**
-
----
-
 ## GitHub stats
 
 <!--
