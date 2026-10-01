@@ -3,8 +3,6 @@
 # Hi, I'm Muhammad Asad Ullah 👋
 ### Full-Stack Developer · MERN · MEAN · NestJS · React · Next.js
 
-**Also known as:** Asad Mallick · asd.dev
-
 <a href="https://asad-mallick.web.app/">
   <img src="https://img.shields.io/badge/Portfolio-asad--mallick.web.app-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
@@ -48,7 +46,7 @@ const asad = {
 - 🔭 Building production products at **Ostryx** (US & international clients)
 - 🛠️ End-to-end: responsive frontends, NestJS backends, admin panels, cloud deploy
 - 🚀 Shipped **20+** apps — PakCitizen, AIVA, Fenec, SipSkip, Briermere Farms, and more
-- ⚡ AI-assisted delivery with Cursor · Copilot · ChatGPT — without sacrificing quality
+- ⚡ AI-assisted delivery with Cursor · Copilot · Claude · Codex — without sacrificing quality
 
 ---
 
