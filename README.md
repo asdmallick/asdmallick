@@ -1,16 +1,14 @@
 <div align="center">
 
-# Hi, I'm Muhammad Asad Ullah 
-### Full-Stack Developer · MERN · MEAN · NestJS · React · Next.js
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Muhammad+Asad+Ullah;Full+Stack+Developer+%C2%B7+MERN+%C2%B7+MEAN+%C2%B7+NestJS;Forward+Deployed+AI+Engineer)](https://asad-mallick.web.app/)
+
+### Full Stack Developer · MERN · MEAN · NestJS · React · Next.js · Forward Deployed AI Engineer
 
 <a href="https://asad-mallick.web.app/">
   <img src="https://img.shields.io/badge/Portfolio-asad--mallick.web.app-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/asdmallick">
   <img src="https://img.shields.io/badge/LinkedIn-asdmallick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/asdmallick">
-  <img src="https://img.shields.io/badge/GitHub-asdmallick-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:asd.mallick@gmail.com">
   <img src="https://img.shields.io/badge/Email-asd.mallick@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -33,11 +31,11 @@
 const asad = {
   name: "Muhammad Asad Ullah",
   aliases: ["Asad Mallick", "asd.dev"],
-  role: "Full-Stack Developer",
+  role: "Full Stack Developer",
   company: "Ostryx",
   location: "Rawalpindi / Islamabad, Pakistan",
   availability: ["Hybrid / On-site (PK)", "Remote (Worldwide)"],
-  openTo: ["Senior Developer", "Lead Developer", "Full-Stack", "Backend"],
+  openTo: ["Senior Developer", "Lead Developer", "Full Stack", "Backend"],
   focus: ["Marketplaces", "SaaS", "AI platforms", "Cloud APIs"],
   askMeAbout: ["NestJS", "React", "Next.js", "MongoDB", "AWS", "Docker"],
 };
@@ -120,7 +118,7 @@ const asad = {
 | | |
 |---|---|
 | **Availability** | Hybrid / On-site in Pakistan · Remote worldwide |
-| **Looking for** | Senior · Lead · Full-Stack · Backend · Freelance / Contract |
+| **Looking for** | Senior · Lead · Full Stack · Backend · Freelance / Contract |
 | **Response** | Usually within 24 hours |
 | **Email** | [asd.mallick@gmail.com](mailto:asd.mallick@gmail.com) |
 | **WhatsApp** | [+92 315-5047483](https://api.whatsapp.com/send/?phone=923155047483) |
