@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Muhammad+Asad+Ullah;Full+Stack+Developer+%C2%B7+MERN+%C2%B7+MEAN+%C2%B7+NestJS;Forward+Deployed+AI+Engineer)](https://asad-mallick.web.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Muhammad+Asad+Ullah;Full+Stack+Developer;Forward+Deployed+AI+Engineer)](https://asad-mallick.web.app/)
 
 ### Full Stack Developer · MERN · MEAN · NestJS · React · Next.js · Forward Deployed AI Engineer
 
