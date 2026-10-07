@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muhammad Asad Ullah 👋
+# Hi, I'm Muhammad Asad Ullah 
 ### Full-Stack Developer · MERN · MEAN · NestJS · React · Next.js
 
 <a href="https://asad-mallick.web.app/">
@@ -86,6 +86,7 @@ const asad = {
 ![Borderless](https://img.shields.io/badge/Borderless_Payments-0B1F3A?style=for-the-badge&logo=paypal&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A35?style=for-the-badge&logo=apple&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-1FD5F9?style=for-the-badge&logo=livekit&logoColor=black)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Plaid](https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white)
 ![Dwolla](https://img.shields.io/badge/Dwolla-FF5C00?style=for-the-badge&logo=cashapp&logoColor=white)
